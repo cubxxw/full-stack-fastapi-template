@@ -1,0 +1,6 @@
+interface:
+  display_name: "Full Stack Fastapi Template"
+  short_description: "Repo-specific patterns and workflows for full-stack-fastapi-template"
+  default_prompt: "Use the full-stack-fastapi-template repo skill to follow existing architecture, testing, and workflow conventions."
+policy:
+  allow_implicit_invocation: true
